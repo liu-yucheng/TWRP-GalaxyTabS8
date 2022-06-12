@@ -1,0 +1,6 @@
+ro.display.series=Samsung Tab S8 5G
+ro.product.board=taro
+ro.board.platform=taro
+sys.usb.controller=a600000.dwc3
+ro.boot.dynamic_partitions=true
+ro.boot.bootdevice=1d84000.ufshc
