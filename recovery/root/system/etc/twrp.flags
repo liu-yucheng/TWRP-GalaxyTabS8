@@ -39,7 +39,6 @@ vendor_dlkm	/vendor_dlkm	ext4						wait,logical,first_stage_mount
 /vbmeta_system	emmc		/dev/block/bootdevice/by-name/vbmeta_system
 /vendor_boot	emmc		/dev/block/bootdevice/by-name/vendor_boot	flags=backup=1;flashimg;display="Vendor Boot"
 /vbmeta_samsung	emmc		/dev/block/bootdevice/by-name/vbmeta_samsung
-/vm-bootsys	ext4		/dev/block/bootdevice/by-name/vm-bootsys
 /imagefv	emmc		/dev/block/bootdevice/by-name/imagefv
 
 # Removable storage

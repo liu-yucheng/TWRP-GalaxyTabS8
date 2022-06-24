@@ -73,5 +73,5 @@ vendor_dlkm					/vendor_dlkm	f2fs	ro				wait,logical,first_stage_mount
 /dev/block/bootdevice/by-name/vbmeta_system	/vbmeta_system	emmc	default				recoveryonly
 /dev/block/bootdevice/by-name/vendor_boot	/vendor_boot	emmc	default				recoveryonly
 /dev/block/bootdevice/by-name/vbmeta_samsung	/vbmeta_samsung	emmc	default				recoveryonly
-/dev/block/bootdevice/by-name/vm-bootsys	/vm-bootsys	ext4	default				recoveryonly
+#/dev/block/bootdevice/by-name/vm-bootsys	/vm-bootsys	ext4	default				recoveryonly
 /dev/block/bootdevice/by-name/imagefv		/imagefv	emmc	default				recoveryonly
