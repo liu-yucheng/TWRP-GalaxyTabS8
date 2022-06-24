@@ -43,4 +43,5 @@ vendor_dlkm	/vendor_dlkm	ext4						wait,logical,first_stage_mount
 /imagefv	emmc		/dev/block/bootdevice/by-name/imagefv
 
 # Removable storage
+/external_sd	vfat		/dev/block/mmcblk0p1	/dev/block/mmcblk0	flags=storage;wipeingui;removable
 /usb-otg	vfat		/dev/block/sdg1	/dev/block/sdg			flags=display="USB-OTG";storage;wipeingui;removable
