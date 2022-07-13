@@ -735,6 +735,7 @@ alias pwm:pwm-lpg pwm_qti_lpg
 alias platform:sec_thermal_log sec_thermal_log
 alias i2c:ISG6320 isg6320
 alias i2c:ISG6320_SUB isg6320
+alias i2c:ISG6320_WIFI isg6320
 alias of:N*T*Cqcom,sharedmem-uio msm_sharedmem
 alias of:N*T*Cqcom,sharedmem-uioC* msm_sharedmem
 alias of:N*T*Csamsung,qcom-debug_partition sec_qc_dbg_partition
