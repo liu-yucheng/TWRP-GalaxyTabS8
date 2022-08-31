@@ -19,6 +19,7 @@ mkdir ./device/samsung/gts8
 
 - `cd` to the `./device/samsung/gts8` directory.
 - Clone this GitHub repository by running `git clone <link-to-this-repository>`.
+- Move all the files in the cloned repository to the `./device/samsung/gts8` directory
 - Now, the compilation directory is ready for the compilation.
 
 ## Compilation
