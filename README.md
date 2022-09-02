@@ -1,10 +1,10 @@
-## TWRP Device Tree 
+# TWRP Device Tree 
 
 - For Samsung Galaxy Tab S8.
 - Branch `main` is for Android 12.1.
 - Tested on models: X700 (WiFi version, CSC: CHN).
 
-## Compilation Preparation
+# Compilation Preparation
 
 - Open a terminal and `mkdir` a compilation directory.
 - `cd` to the compilation directory.
@@ -22,7 +22,7 @@ mkdir ./device/samsung/gts8
 - Move all the files in the cloned repository to the `./device/samsung/gts8` directory.
 - Now, the compilation directory is ready for the compilation.
 
-## Compilation
+# Compilation
 
 - Open a terminal and `cd` to the compliation directory.
 - Run exactly the following commands in the terminal.
